@@ -1,0 +1,1077 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memcpy.o)
+                              FreeRTOS-Kernel/queue.o (memcpy)
+/usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-init.o)
+                              startup/startup_stm32f103xb.o (__libc_init_array)
+/usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memset.o)
+                              FreeRTOS-Kernel/tasks.o (memset)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .text.Error_Handler
+                0x00000000        0x4 main.o
+ .comment       0x00000000       0x27 main.o
+ .text          0x00000000        0x0 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .data          0x00000000        0x0 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .bss           0x00000000        0x0 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .text.HAL_MspDeInit
+                0x00000000        0x2 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .text.HAL_DeInit
+                0x00000000       0x20 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .text.HAL_IncTick
+                0x00000000       0x18 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .text.HAL_GetTickPrio
+                0x00000000        0xc Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .text.HAL_SetTickFreq
+                0x00000000       0x2c Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .text.HAL_GetTickFreq
+                0x00000000        0xc Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .text.HAL_Delay
+                0x00000000       0x28 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .text.HAL_SuspendTick
+                0x00000000        0xe Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .text.HAL_ResumeTick
+                0x00000000        0xe Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .text.HAL_GetHalVersion
+                0x00000000        0x8 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .text.HAL_GetREVID
+                0x00000000        0xc Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .text.HAL_GetDEVID
+                0x00000000       0x10 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .text.HAL_GetUIDw0
+                0x00000000        0xc Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .text.HAL_GetUIDw1
+                0x00000000        0xc Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .text.HAL_GetUIDw2
+                0x00000000        0xc Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x00000000       0x10 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x00000000       0x10 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x00000000       0x10 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x00000000       0x10 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x00000000       0x10 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x00000000       0x10 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .comment       0x00000000       0x27 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .text          0x00000000        0x0 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .data          0x00000000        0x0 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .bss           0x00000000        0x0 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .text.HAL_NVIC_EnableIRQ
+                0x00000000       0x1c Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .text.HAL_NVIC_DisableIRQ
+                0x00000000       0x24 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .text.HAL_NVIC_SystemReset
+                0x00000000       0x24 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x00000000       0x10 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .text.HAL_NVIC_GetPriority
+                0x00000000       0x60 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .text.HAL_NVIC_SetPendingIRQ
+                0x00000000       0x1c Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .text.HAL_NVIC_GetPendingIRQ
+                0x00000000       0x24 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x00000000       0x1c Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .text.HAL_NVIC_GetActive
+                0x00000000       0x24 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x00000000       0x16 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .text.HAL_SYSTICK_Callback
+                0x00000000        0x2 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .text.HAL_SYSTICK_IRQHandler
+                0x00000000        0x8 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .comment       0x00000000       0x27 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .text          0x00000000        0x0 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .data          0x00000000        0x0 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .bss           0x00000000        0x0 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .text.HAL_GPIO_DeInit
+                0x00000000       0xfc Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .text.HAL_GPIO_ReadPin
+                0x00000000        0xc Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .text.HAL_GPIO_LockPin
+                0x00000000       0x2a Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .text.HAL_GPIO_EXTI_Callback
+                0x00000000        0x2 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x00000000       0x1c Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .comment       0x00000000       0x27 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .text          0x00000000        0x0 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .data          0x00000000        0x0 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .bss           0x00000000        0x0 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .text.HAL_RCC_DeInit
+                0x00000000       0xf0 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .text.HAL_RCC_MCOConfig
+                0x00000000       0x4c Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .text.HAL_RCC_EnableCSS
+                0x00000000        0xc Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .text.HAL_RCC_DisableCSS
+                0x00000000        0xc Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .text.HAL_RCC_GetHCLKFreq
+                0x00000000        0xc Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .text.HAL_RCC_GetPCLK1Freq
+                0x00000000       0x20 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .text.HAL_RCC_GetPCLK2Freq
+                0x00000000       0x20 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .text.HAL_RCC_GetOscConfig
+                0x00000000       0x78 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .text.HAL_RCC_GetClockConfig
+                0x00000000       0x3c Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .text.HAL_RCC_CSSCallback
+                0x00000000        0x2 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .text.HAL_RCC_NMI_IRQHandler
+                0x00000000       0x20 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .comment       0x00000000       0x27 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .text          0x00000000        0x0 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.o
+ .data          0x00000000        0x0 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.o
+ .bss           0x00000000        0x0 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_PeriphCLKConfig
+                0x00000000      0x11c Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_GetPeriphCLKConfig
+                0x00000000       0x2c Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_GetPeriphCLKFreq
+                0x00000000       0xdc Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.o
+ .rodata.aPredivFactorTable.0
+                0x00000000        0x2 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.o
+ .rodata.aPLLMULFactorTable.1
+                0x00000000       0x10 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.o
+ .debug_info    0x00000000      0x408 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.o
+ .debug_abbrev  0x00000000      0x1d8 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.o
+ .debug_loclists
+                0x00000000      0x2d2 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.o
+ .debug_aranges
+                0x00000000       0x30 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.o
+ .debug_rnglists
+                0x00000000       0x2f Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.o
+ .debug_line    0x00000000      0x3f7 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.o
+ .debug_str     0x00000000      0x384 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.o
+ .comment       0x00000000       0x27 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.o
+ .debug_frame   0x00000000       0x64 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.o
+ .ARM.attributes
+                0x00000000       0x2d Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.o
+ .text          0x00000000        0x0 Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/system_stm32f1xx.o
+ .data          0x00000000        0x0 Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/system_stm32f1xx.o
+ .bss           0x00000000        0x0 Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/system_stm32f1xx.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0x64 Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/system_stm32f1xx.o
+ .rodata.APBPrescTable
+                0x00000000        0x8 Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/system_stm32f1xx.o
+ .comment       0x00000000       0x27 Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/system_stm32f1xx.o
+ .text          0x00000000        0x0 FreeRTOS-Kernel/tasks.o
+ .data          0x00000000        0x0 FreeRTOS-Kernel/tasks.o
+ .bss           0x00000000        0x0 FreeRTOS-Kernel/tasks.o
+ .text.prvTaskIsTaskSuspended
+                0x00000000       0x48 FreeRTOS-Kernel/tasks.o
+ .text.vTaskDelete
+                0x00000000      0x104 FreeRTOS-Kernel/tasks.o
+ .text.vTaskResume
+                0x00000000       0xa4 FreeRTOS-Kernel/tasks.o
+ .text.xTaskResumeFromISR
+                0x00000000       0xcc FreeRTOS-Kernel/tasks.o
+ .text.vTaskEndScheduler
+                0x00000000       0x34 FreeRTOS-Kernel/tasks.o
+ .text.xTaskGetTickCount
+                0x00000000        0xc FreeRTOS-Kernel/tasks.o
+ .text.xTaskGetTickCountFromISR
+                0x00000000       0x10 FreeRTOS-Kernel/tasks.o
+ .text.uxTaskGetNumberOfTasks
+                0x00000000        0xc FreeRTOS-Kernel/tasks.o
+ .text.pcTaskGetName
+                0x00000000       0x28 FreeRTOS-Kernel/tasks.o
+ .text.xTaskCatchUpTicks
+                0x00000000       0x40 FreeRTOS-Kernel/tasks.o
+ .text.vTaskSuspend
+                0x00000000       0xfc FreeRTOS-Kernel/tasks.o
+ .text.vTaskPlaceOnEventList
+                0x00000000       0x30 FreeRTOS-Kernel/tasks.o
+ .text.vTaskPlaceOnUnorderedEventList
+                0x00000000       0x88 FreeRTOS-Kernel/tasks.o
+ .text.xTaskRemoveFromEventList
+                0x00000000       0xec FreeRTOS-Kernel/tasks.o
+ .text.vTaskRemoveFromUnorderedEventList
+                0x00000000       0xe4 FreeRTOS-Kernel/tasks.o
+ .text.vTaskSetTimeOutState
+                0x00000000       0x38 FreeRTOS-Kernel/tasks.o
+ .text.vTaskInternalSetTimeOutState
+                0x00000000       0x18 FreeRTOS-Kernel/tasks.o
+ .text.xTaskCheckForTimeOut
+                0x00000000       0x88 FreeRTOS-Kernel/tasks.o
+ .text.vTaskMissedYield
+                0x00000000        0xc FreeRTOS-Kernel/tasks.o
+ .text.xTaskGetCurrentTaskHandle
+                0x00000000        0xc FreeRTOS-Kernel/tasks.o
+ .text.xTaskGetCurrentTaskHandleForCore
+                0x00000000       0x10 FreeRTOS-Kernel/tasks.o
+ .text.xTaskGetSchedulerState
+                0x00000000       0x20 FreeRTOS-Kernel/tasks.o
+ .text.xTaskPriorityInherit
+                0x00000000       0xc4 FreeRTOS-Kernel/tasks.o
+ .text.xTaskPriorityDisinherit
+                0x00000000       0xc4 FreeRTOS-Kernel/tasks.o
+ .text.vTaskPriorityDisinheritAfterTimeout
+                0x00000000       0xcc FreeRTOS-Kernel/tasks.o
+ .text.uxTaskResetEventItemValue
+                0x00000000       0x18 FreeRTOS-Kernel/tasks.o
+ .text.pvTaskIncrementMutexHeldCount
+                0x00000000       0x14 FreeRTOS-Kernel/tasks.o
+ .text.ulTaskGenericNotifyTake
+                0x00000000       0xa8 FreeRTOS-Kernel/tasks.o
+ .text.xTaskGenericNotifyWait
+                0x00000000       0xcc FreeRTOS-Kernel/tasks.o
+ .text.xTaskGenericNotify
+                0x00000000      0x148 FreeRTOS-Kernel/tasks.o
+ .text.xTaskGenericNotifyFromISR
+                0x00000000      0x188 FreeRTOS-Kernel/tasks.o
+ .text.vTaskGenericNotifyGiveFromISR
+                0x00000000      0x140 FreeRTOS-Kernel/tasks.o
+ .text.xTaskGenericNotifyStateClear
+                0x00000000       0x58 FreeRTOS-Kernel/tasks.o
+ .text.ulTaskGenericNotifyValueClear
+                0x00000000       0x50 FreeRTOS-Kernel/tasks.o
+ .text.vTaskResetState
+                0x00000000       0x64 FreeRTOS-Kernel/tasks.o
+ .comment       0x00000000       0x27 FreeRTOS-Kernel/tasks.o
+ .text          0x00000000        0x0 FreeRTOS-Kernel/queue.o
+ .data          0x00000000        0x0 FreeRTOS-Kernel/queue.o
+ .bss           0x00000000        0x0 FreeRTOS-Kernel/queue.o
+ .text.prvIsQueueEmpty
+                0x00000000       0x16 FreeRTOS-Kernel/queue.o
+ .text.prvCopyDataToQueue
+                0x00000000       0x76 FreeRTOS-Kernel/queue.o
+ .text.prvCopyDataFromQueue
+                0x00000000       0x24 FreeRTOS-Kernel/queue.o
+ .text.prvUnlockQueue
+                0x00000000       0x76 FreeRTOS-Kernel/queue.o
+ .text.xQueueGenericReset
+                0x00000000       0xa2 FreeRTOS-Kernel/queue.o
+ .text.xQueueGenericCreate
+                0x00000000       0x50 FreeRTOS-Kernel/queue.o
+ .text.xQueueCreateCountingSemaphore
+                0x00000000       0x2a FreeRTOS-Kernel/queue.o
+ .text.xQueueGenericSend
+                0x00000000      0x19c FreeRTOS-Kernel/queue.o
+ .text.xQueueCreateMutex
+                0x00000000       0x24 FreeRTOS-Kernel/queue.o
+ .text.xQueueGiveMutexRecursive
+                0x00000000       0x40 FreeRTOS-Kernel/queue.o
+ .text.xQueueGenericSendFromISR
+                0x00000000       0xe0 FreeRTOS-Kernel/queue.o
+ .text.xQueueGiveFromISR
+                0x00000000       0xc2 FreeRTOS-Kernel/queue.o
+ .text.xQueueReceive
+                0x00000000      0x166 FreeRTOS-Kernel/queue.o
+ .text.xQueueSemaphoreTake
+                0x00000000      0x1aa FreeRTOS-Kernel/queue.o
+ .text.xQueueTakeMutexRecursive
+                0x00000000       0x66 FreeRTOS-Kernel/queue.o
+ .text.xQueuePeek
+                0x00000000      0x154 FreeRTOS-Kernel/queue.o
+ .text.xQueueReceiveFromISR
+                0x00000000       0xd2 FreeRTOS-Kernel/queue.o
+ .text.xQueuePeekFromISR
+                0x00000000       0x6c FreeRTOS-Kernel/queue.o
+ .text.uxQueueMessagesWaiting
+                0x00000000       0x26 FreeRTOS-Kernel/queue.o
+ .text.uxQueueSpacesAvailable
+                0x00000000       0x2a FreeRTOS-Kernel/queue.o
+ .text.uxQueueMessagesWaitingFromISR
+                0x00000000       0x18 FreeRTOS-Kernel/queue.o
+ .text.vQueueDelete
+                0x00000000       0x48 FreeRTOS-Kernel/queue.o
+ .text.uxQueueGetQueueItemSize
+                0x00000000        0x4 FreeRTOS-Kernel/queue.o
+ .text.uxQueueGetQueueLength
+                0x00000000        0x4 FreeRTOS-Kernel/queue.o
+ .text.xQueueIsQueueEmptyFromISR
+                0x00000000       0x1e FreeRTOS-Kernel/queue.o
+ .text.xQueueIsQueueFullFromISR
+                0x00000000       0x22 FreeRTOS-Kernel/queue.o
+ .debug_info    0x00000000     0x2095 FreeRTOS-Kernel/queue.o
+ .debug_abbrev  0x00000000      0x37d FreeRTOS-Kernel/queue.o
+ .debug_loclists
+                0x00000000      0xda2 FreeRTOS-Kernel/queue.o
+ .debug_aranges
+                0x00000000       0xe8 FreeRTOS-Kernel/queue.o
+ .debug_rnglists
+                0x00000000      0x14d FreeRTOS-Kernel/queue.o
+ .debug_line    0x00000000     0x1885 FreeRTOS-Kernel/queue.o
+ .debug_str     0x00000000      0xa1c FreeRTOS-Kernel/queue.o
+ .comment       0x00000000       0x27 FreeRTOS-Kernel/queue.o
+ .debug_frame   0x00000000      0x308 FreeRTOS-Kernel/queue.o
+ .ARM.attributes
+                0x00000000       0x2d FreeRTOS-Kernel/queue.o
+ .text          0x00000000        0x0 FreeRTOS-Kernel/list.o
+ .data          0x00000000        0x0 FreeRTOS-Kernel/list.o
+ .bss           0x00000000        0x0 FreeRTOS-Kernel/list.o
+ .text.vListInsertEnd
+                0x00000000       0x16 FreeRTOS-Kernel/list.o
+ .comment       0x00000000       0x27 FreeRTOS-Kernel/list.o
+ .text          0x00000000        0x0 FreeRTOS-Kernel/croutine.o
+ .data          0x00000000        0x0 FreeRTOS-Kernel/croutine.o
+ .bss           0x00000000        0x0 FreeRTOS-Kernel/croutine.o
+ .debug_info    0x00000000       0x73 FreeRTOS-Kernel/croutine.o
+ .debug_abbrev  0x00000000       0x26 FreeRTOS-Kernel/croutine.o
+ .debug_aranges
+                0x00000000       0x18 FreeRTOS-Kernel/croutine.o
+ .debug_line    0x00000000       0x3b FreeRTOS-Kernel/croutine.o
+ .debug_str     0x00000000      0x154 FreeRTOS-Kernel/croutine.o
+ .comment       0x00000000       0x27 FreeRTOS-Kernel/croutine.o
+ .ARM.attributes
+                0x00000000       0x2d FreeRTOS-Kernel/croutine.o
+ .text          0x00000000        0x0 FreeRTOS-Kernel/event_groups.o
+ .data          0x00000000        0x0 FreeRTOS-Kernel/event_groups.o
+ .bss           0x00000000        0x0 FreeRTOS-Kernel/event_groups.o
+ .text.xEventGroupCreate
+                0x00000000       0x1a FreeRTOS-Kernel/event_groups.o
+ .text.xEventGroupWaitBits
+                0x00000000      0x11a FreeRTOS-Kernel/event_groups.o
+ .text.xEventGroupClearBits
+                0x00000000       0x46 FreeRTOS-Kernel/event_groups.o
+ .text.xEventGroupGetBitsFromISR
+                0x00000000       0x1c FreeRTOS-Kernel/event_groups.o
+ .text.xEventGroupSetBits
+                0x00000000       0x92 FreeRTOS-Kernel/event_groups.o
+ .text.xEventGroupSync
+                0x00000000       0xee FreeRTOS-Kernel/event_groups.o
+ .text.vEventGroupDelete
+                0x00000000       0x58 FreeRTOS-Kernel/event_groups.o
+ .text.vEventGroupSetBitsCallback
+                0x00000000        0x8 FreeRTOS-Kernel/event_groups.o
+ .text.vEventGroupClearBitsCallback
+                0x00000000        0x8 FreeRTOS-Kernel/event_groups.o
+ .debug_info    0x00000000      0xc6b FreeRTOS-Kernel/event_groups.o
+ .debug_abbrev  0x00000000      0x2e9 FreeRTOS-Kernel/event_groups.o
+ .debug_loclists
+                0x00000000      0x771 FreeRTOS-Kernel/event_groups.o
+ .debug_aranges
+                0x00000000       0x60 FreeRTOS-Kernel/event_groups.o
+ .debug_rnglists
+                0x00000000       0x6a FreeRTOS-Kernel/event_groups.o
+ .debug_line    0x00000000      0x883 FreeRTOS-Kernel/event_groups.o
+ .debug_str     0x00000000      0x607 FreeRTOS-Kernel/event_groups.o
+ .comment       0x00000000       0x27 FreeRTOS-Kernel/event_groups.o
+ .debug_frame   0x00000000      0x140 FreeRTOS-Kernel/event_groups.o
+ .ARM.attributes
+                0x00000000       0x2d FreeRTOS-Kernel/event_groups.o
+ .text          0x00000000        0x0 FreeRTOS-Kernel/stream_buffer.o
+ .data          0x00000000        0x0 FreeRTOS-Kernel/stream_buffer.o
+ .bss           0x00000000        0x0 FreeRTOS-Kernel/stream_buffer.o
+ .text.prvBytesInBuffer
+                0x00000000       0x12 FreeRTOS-Kernel/stream_buffer.o
+ .text.prvInitialiseNewStreamBuffer
+                0x00000000       0x44 FreeRTOS-Kernel/stream_buffer.o
+ .text.prvWriteBytesToBuffer
+                0x00000000       0x8a FreeRTOS-Kernel/stream_buffer.o
+ .text.prvWriteMessageToBuffer
+                0x00000000       0x4e FreeRTOS-Kernel/stream_buffer.o
+ .text.prvReadBytesFromBuffer
+                0x00000000       0x76 FreeRTOS-Kernel/stream_buffer.o
+ .text.prvReadMessageFromBuffer
+                0x00000000       0x4e FreeRTOS-Kernel/stream_buffer.o
+ .text.xStreamBufferGenericCreate
+                0x00000000       0xb2 FreeRTOS-Kernel/stream_buffer.o
+ .text.vStreamBufferDelete
+                0x00000000       0x2e FreeRTOS-Kernel/stream_buffer.o
+ .text.xStreamBufferReset
+                0x00000000       0x4e FreeRTOS-Kernel/stream_buffer.o
+ .text.xStreamBufferResetFromISR
+                0x00000000       0x58 FreeRTOS-Kernel/stream_buffer.o
+ .text.xStreamBufferSetTriggerLevel
+                0x00000000       0x28 FreeRTOS-Kernel/stream_buffer.o
+ .text.xStreamBufferSpacesAvailable
+                0x00000000       0x36 FreeRTOS-Kernel/stream_buffer.o
+ .text.xStreamBufferBytesAvailable
+                0x00000000       0x1c FreeRTOS-Kernel/stream_buffer.o
+ .text.xStreamBufferSend
+                0x00000000      0x142 FreeRTOS-Kernel/stream_buffer.o
+ .text.xStreamBufferSendFromISR
+                0x00000000       0xca FreeRTOS-Kernel/stream_buffer.o
+ .text.xStreamBufferReceive
+                0x00000000       0xfe FreeRTOS-Kernel/stream_buffer.o
+ .text.xStreamBufferNextMessageLengthBytes
+                0x00000000       0x58 FreeRTOS-Kernel/stream_buffer.o
+ .text.xStreamBufferReceiveFromISR
+                0x00000000       0x94 FreeRTOS-Kernel/stream_buffer.o
+ .text.xStreamBufferIsEmpty
+                0x00000000       0x22 FreeRTOS-Kernel/stream_buffer.o
+ .text.xStreamBufferIsFull
+                0x00000000       0x2c FreeRTOS-Kernel/stream_buffer.o
+ .text.xStreamBufferSendCompletedFromISR
+                0x00000000       0x54 FreeRTOS-Kernel/stream_buffer.o
+ .text.xStreamBufferReceiveCompletedFromISR
+                0x00000000       0x54 FreeRTOS-Kernel/stream_buffer.o
+ .text.uxStreamBufferGetStreamBufferNotificationIndex
+                0x00000000       0x18 FreeRTOS-Kernel/stream_buffer.o
+ .text.vStreamBufferSetStreamBufferNotificationIndex
+                0x00000000       0x48 FreeRTOS-Kernel/stream_buffer.o
+ .debug_info    0x00000000     0x1c21 FreeRTOS-Kernel/stream_buffer.o
+ .debug_abbrev  0x00000000      0x363 FreeRTOS-Kernel/stream_buffer.o
+ .debug_loclists
+                0x00000000     0x11fb FreeRTOS-Kernel/stream_buffer.o
+ .debug_aranges
+                0x00000000       0xd8 FreeRTOS-Kernel/stream_buffer.o
+ .debug_rnglists
+                0x00000000       0xd3 FreeRTOS-Kernel/stream_buffer.o
+ .debug_line    0x00000000     0x1463 FreeRTOS-Kernel/stream_buffer.o
+ .debug_str     0x00000000      0x95a FreeRTOS-Kernel/stream_buffer.o
+ .comment       0x00000000       0x27 FreeRTOS-Kernel/stream_buffer.o
+ .debug_frame   0x00000000      0x38c FreeRTOS-Kernel/stream_buffer.o
+ .ARM.attributes
+                0x00000000       0x2d FreeRTOS-Kernel/stream_buffer.o
+ .text          0x00000000        0x0 FreeRTOS-Kernel/timers.o
+ .data          0x00000000        0x0 FreeRTOS-Kernel/timers.o
+ .bss           0x00000000        0x0 FreeRTOS-Kernel/timers.o
+ .debug_info    0x00000000       0x73 FreeRTOS-Kernel/timers.o
+ .debug_abbrev  0x00000000       0x26 FreeRTOS-Kernel/timers.o
+ .debug_aranges
+                0x00000000       0x18 FreeRTOS-Kernel/timers.o
+ .debug_line    0x00000000       0x39 FreeRTOS-Kernel/timers.o
+ .debug_str     0x00000000      0x152 FreeRTOS-Kernel/timers.o
+ .comment       0x00000000       0x27 FreeRTOS-Kernel/timers.o
+ .ARM.attributes
+                0x00000000       0x2d FreeRTOS-Kernel/timers.o
+ .text          0x00000000        0x0 FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+ .data          0x00000000        0x0 FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+ .bss           0x00000000        0x0 FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+ .text.vPortEndScheduler
+                0x00000000       0x24 FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+ .text.vPortValidateInterruptPriority
+                0x00000000       0x5c FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+ .comment       0x00000000       0x27 FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+ .text          0x00000000        0x0 FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .data          0x00000000        0x0 FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .bss           0x00000000        0x0 FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .text.xPortGetFreeHeapSize
+                0x00000000        0xc FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .text.xPortGetMinimumEverFreeHeapSize
+                0x00000000        0xc FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .text.xPortResetHeapMinimumEverFreeHeapSize
+                0x00000000       0x14 FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .text.vPortInitialiseBlocks
+                0x00000000        0x2 FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .text.pvPortCalloc
+                0x00000000       0x2a FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .text.vPortGetHeapStats
+                0x00000000       0x8c FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .text.vPortHeapResetState
+                0x00000000       0x2c FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .comment       0x00000000       0x27 FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .text          0x00000000       0x14 startup/startup_stm32f103xb.o
+ .data          0x00000000        0x0 startup/startup_stm32f103xb.o
+ .bss           0x00000000        0x0 startup/startup_stm32f103xb.o
+ .text          0x00000000       0xec /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memcpy.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memcpy.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memcpy.o)
+ .ARM.extab     0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memcpy.o)
+ .ARM.exidx     0x00000000        0x8 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memcpy.o)
+ .debug_line    0x00000000       0xbd /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memcpy.o)
+ .debug_line_str
+                0x00000000       0x90 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memcpy.o)
+ .debug_info    0x00000000       0x33 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memcpy.o)
+ .debug_abbrev  0x00000000       0x28 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memcpy.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memcpy.o)
+ .debug_str     0x00000000       0xa6 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memcpy.o)
+ .debug_frame   0x00000000       0x28 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memcpy.o)
+ .ARM.attributes
+                0x00000000       0x1b /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memcpy.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-init.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-init.o)
+ .comment       0x00000000       0x27 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-init.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memset.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memset.o)
+ .comment       0x00000000       0x27 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memset.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00020000         xr
+RAM              0x20000000         0x00005000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD main.o
+LOAD Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+LOAD Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+LOAD Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+LOAD Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+LOAD Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.o
+LOAD Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/system_stm32f1xx.o
+LOAD FreeRTOS-Kernel/tasks.o
+LOAD FreeRTOS-Kernel/queue.o
+LOAD FreeRTOS-Kernel/list.o
+LOAD FreeRTOS-Kernel/croutine.o
+LOAD FreeRTOS-Kernel/event_groups.o
+LOAD FreeRTOS-Kernel/stream_buffer.o
+LOAD FreeRTOS-Kernel/timers.o
+LOAD FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+LOAD FreeRTOS-Kernel/portable/MemMang/heap_4.o
+LOAD startup/startup_stm32f103xb.o
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a
+END GROUP
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/14.2.1/thumb/v7-m/nofp/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a
+LOAD /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a
+END GROUP
+                0x20005000                        _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x00000400                        _Min_Heap_Size = 0x400
+                0x00000800                        _Min_Stack_Size = 0x800
+
+.isr_vector     0x08000000      0x10c
+                0x08000000                        . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x10c startup/startup_stm32f103xb.o
+                0x08000000                g_pfnVectors
+                0x0800010c                        . = ALIGN (0x4)
+
+.text           0x0800010c     0x1aa0
+                0x0800010c                        . = ALIGN (0x4)
+ *(.text)
+ .text          0x0800010c       0x50 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-init.o)
+                0x0800010c                __libc_init_array
+ .text          0x0800015c       0x9c /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memset.o)
+                0x0800015c                memset
+ *(.text*)
+ .text.LED_Task
+                0x080001f8       0x14 main.o
+ .text._init    0x0800020c        0x2 main.o
+                0x0800020c                _init
+ .text.SystemClock_Config
+                0x0800020e       0x62 main.o
+                0x0800020e                SystemClock_Config
+ .text.main     0x08000270       0xac main.o
+                0x08000270                main
+ .text.HAL_MspInit
+                0x0800031c        0x2 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+                0x0800031c                HAL_MspInit
+ *fill*         0x0800031e        0x2 
+ .text.HAL_InitTick
+                0x08000320       0x4c Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+                0x08000320                HAL_InitTick
+ .text.HAL_Init
+                0x0800036c       0x24 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+                0x0800036c                HAL_Init
+ .text.HAL_GetTick
+                0x08000390        0xc Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+                0x08000390                HAL_GetTick
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x0800039c       0x24 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+                0x0800039c                HAL_NVIC_SetPriorityGrouping
+ .text.HAL_NVIC_SetPriority
+                0x080003c0       0x6c Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+                0x080003c0                HAL_NVIC_SetPriority
+ .text.HAL_SYSTICK_Config
+                0x0800042c       0x28 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+                0x0800042c                HAL_SYSTICK_Config
+ .text.HAL_GPIO_Init
+                0x08000454      0x240 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+                0x08000454                HAL_GPIO_Init
+ .text.HAL_GPIO_WritePin
+                0x08000694        0xc Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+                0x08000694                HAL_GPIO_WritePin
+ .text.HAL_GPIO_TogglePin
+                0x080006a0       0x12 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+                0x080006a0                HAL_GPIO_TogglePin
+ *fill*         0x080006b2        0x2 
+ .text.HAL_RCC_OscConfig
+                0x080006b4      0x42c Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+                0x080006b4                HAL_RCC_OscConfig
+ .text.HAL_RCC_GetSysClockFreq
+                0x08000ae0       0x54 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+                0x08000ae0                HAL_RCC_GetSysClockFreq
+ .text.HAL_RCC_ClockConfig
+                0x08000b34      0x170 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+                0x08000b34                HAL_RCC_ClockConfig
+ .text.SystemInit
+                0x08000ca4        0x2 Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/system_stm32f1xx.o
+                0x08000ca4                SystemInit
+ *fill*         0x08000ca6        0x2 
+ .text.prvResetNextTaskUnblockTime
+                0x08000ca8       0x28 FreeRTOS-Kernel/tasks.o
+ .text.prvCheckTasksWaitingTermination
+                0x08000cd0       0x4c FreeRTOS-Kernel/tasks.o
+ .text.prvIdleTask
+                0x08000d1c       0x28 FreeRTOS-Kernel/tasks.o
+ .text.prvAddCurrentTaskToDelayedList
+                0x08000d44       0xd8 FreeRTOS-Kernel/tasks.o
+ .text.xTaskCreate
+                0x08000e1c      0x200 FreeRTOS-Kernel/tasks.o
+                0x08000e1c                xTaskCreate
+ .text.vTaskStartScheduler
+                0x0800101c       0xa8 FreeRTOS-Kernel/tasks.o
+                0x0800101c                vTaskStartScheduler
+ .text.vTaskSuspendAll
+                0x080010c4       0x10 FreeRTOS-Kernel/tasks.o
+                0x080010c4                vTaskSuspendAll
+ .text.xTaskIncrementTick
+                0x080010d4      0x1b8 FreeRTOS-Kernel/tasks.o
+                0x080010d4                xTaskIncrementTick
+ .text.xTaskResumeAll
+                0x0800128c      0x17c FreeRTOS-Kernel/tasks.o
+                0x0800128c                xTaskResumeAll
+ .text.vTaskDelay
+                0x08001408       0x50 FreeRTOS-Kernel/tasks.o
+                0x08001408                vTaskDelay
+ .text.vTaskSwitchContext
+                0x08001458       0x94 FreeRTOS-Kernel/tasks.o
+                0x08001458                vTaskSwitchContext
+ .text.vListInitialise
+                0x080014ec       0x16 FreeRTOS-Kernel/list.o
+                0x080014ec                vListInitialise
+ .text.vListInitialiseItem
+                0x08001502        0x6 FreeRTOS-Kernel/list.o
+                0x08001502                vListInitialiseItem
+ .text.vListInsert
+                0x08001508       0x32 FreeRTOS-Kernel/list.o
+                0x08001508                vListInsert
+ .text.uxListRemove
+                0x0800153a       0x22 FreeRTOS-Kernel/list.o
+                0x0800153a                uxListRemove
+ .text.prvTaskExitError
+                0x0800155c       0x40 FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+ .text.SVC_Handler
+                0x0800159c       0x24 FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+                0x0800159c                SVC_Handler
+ .text.prvPortStartFirstTask
+                0x080015c0       0x20 FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+ .text.PendSV_Handler
+                0x080015e0       0x44 FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+                0x080015e0                PendSV_Handler
+ .text.pxPortInitialiseStack
+                0x08001624       0x24 FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+                0x08001624                pxPortInitialiseStack
+ .text.vPortEnterCritical
+                0x08001648       0x44 FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+                0x08001648                vPortEnterCritical
+ .text.vPortExitCritical
+                0x0800168c       0x2c FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+                0x0800168c                vPortExitCritical
+ .text.SysTick_Handler
+                0x080016b8       0x2c FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+                0x080016b8                SysTick_Handler
+ .text.vPortSetupTimerInterrupt
+                0x080016e4       0x28 FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+                0x080016e4                vPortSetupTimerInterrupt
+ .text.xPortStartScheduler
+                0x0800170c      0x134 FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+                0x0800170c                xPortStartScheduler
+ .text.pvPortMalloc
+                0x08001840      0x1c8 FreeRTOS-Kernel/portable/MemMang/heap_4.o
+                0x08001840                pvPortMalloc
+ .text.vPortFree
+                0x08001a08      0x110 FreeRTOS-Kernel/portable/MemMang/heap_4.o
+                0x08001a08                vPortFree
+ .text.Reset_Handler
+                0x08001b18       0x48 startup/startup_stm32f103xb.o
+                0x08001b18                Reset_Handler
+ .text.Default_Handler
+                0x08001b60        0x2 startup/startup_stm32f103xb.o
+                0x08001b60                RTC_Alarm_IRQHandler
+                0x08001b60                EXTI2_IRQHandler
+                0x08001b60                DebugMon_Handler
+                0x08001b60                TIM1_CC_IRQHandler
+                0x08001b60                HardFault_Handler
+                0x08001b60                PVD_IRQHandler
+                0x08001b60                NMI_Handler
+                0x08001b60                EXTI3_IRQHandler
+                0x08001b60                EXTI0_IRQHandler
+                0x08001b60                I2C2_EV_IRQHandler
+                0x08001b60                UsageFault_Handler
+                0x08001b60                ADC1_2_IRQHandler
+                0x08001b60                SPI1_IRQHandler
+                0x08001b60                TAMPER_IRQHandler
+                0x08001b60                DMA1_Channel4_IRQHandler
+                0x08001b60                USART3_IRQHandler
+                0x08001b60                RTC_IRQHandler
+                0x08001b60                DMA1_Channel7_IRQHandler
+                0x08001b60                CAN1_RX1_IRQHandler
+                0x08001b60                TIM4_IRQHandler
+                0x08001b60                I2C1_EV_IRQHandler
+                0x08001b60                DMA1_Channel6_IRQHandler
+                0x08001b60                TIM3_IRQHandler
+                0x08001b60                RCC_IRQHandler
+                0x08001b60                TIM1_TRG_COM_IRQHandler
+                0x08001b60                DMA1_Channel1_IRQHandler
+                0x08001b60                Default_Handler
+                0x08001b60                EXTI15_10_IRQHandler
+                0x08001b60                EXTI9_5_IRQHandler
+                0x08001b60                SPI2_IRQHandler
+                0x08001b60                MemManage_Handler
+                0x08001b60                DMA1_Channel5_IRQHandler
+                0x08001b60                EXTI4_IRQHandler
+                0x08001b60                USB_LP_CAN1_RX0_IRQHandler
+                0x08001b60                USB_HP_CAN1_TX_IRQHandler
+                0x08001b60                DMA1_Channel3_IRQHandler
+                0x08001b60                TIM1_UP_IRQHandler
+                0x08001b60                WWDG_IRQHandler
+                0x08001b60                TIM2_IRQHandler
+                0x08001b60                TIM1_BRK_IRQHandler
+                0x08001b60                EXTI1_IRQHandler
+                0x08001b60                USART2_IRQHandler
+                0x08001b60                I2C2_ER_IRQHandler
+                0x08001b60                DMA1_Channel2_IRQHandler
+                0x08001b60                CAN1_SCE_IRQHandler
+                0x08001b60                FLASH_IRQHandler
+                0x08001b60                BusFault_Handler
+                0x08001b60                USART1_IRQHandler
+                0x08001b60                I2C1_ER_IRQHandler
+                0x08001b60                USBWakeUp_IRQHandler
+ *(.rodata)
+ *(.rodata*)
+ *fill*         0x08001b62        0x2 
+ .rodata.main.str1.4
+                0x08001b64       0x1d main.o
+                                 0x15 (size before relaxing)
+ *fill*         0x08001b81        0x3 
+ .rodata.aPredivFactorTable.0
+                0x08001b84        0x2 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ *fill*         0x08001b86        0x2 
+ .rodata.aPLLMULFactorTable.1
+                0x08001b88       0x10 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .rodata.AHBPrescTable
+                0x08001b98       0x10 Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/system_stm32f1xx.o
+                0x08001b98                AHBPrescTable
+ .rodata.vTaskStartScheduler.str1.4
+                0x08001ba8        0x0 FreeRTOS-Kernel/tasks.o
+                                  0x5 (size before relaxing)
+ .rodata.uxTopUsedPriority
+                0x08001ba8        0x4 FreeRTOS-Kernel/tasks.o
+ *(.glue_7)
+ .glue_7        0x08001bac        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08001bac        0x0 linker stubs
+ *(.eh_frame)
+ *(.init)
+ *(.fini)
+                0x08001bac                        . = ALIGN (0x4)
+                0x08001bac                        _etext = .
+                0x08001bac                        _sidata = LOADADDR (.data)
+
+.vfp11_veneer   0x08001bac        0x0
+ .vfp11_veneer  0x08001bac        0x0 linker stubs
+
+.v4_bx          0x08001bac        0x0
+ .v4_bx         0x08001bac        0x0 linker stubs
+
+.iplt           0x08001bac        0x0
+ .iplt          0x08001bac        0x0 main.o
+
+.rel.dyn        0x08001bac        0x0
+ .rel.iplt      0x08001bac        0x0 main.o
+
+.data           0x20000000       0x34 load address 0x08001bac
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        _sdata = .
+ *(.data)
+ *(.data*)
+ .data.LED3_Config
+                0x20000000        0xc main.o
+                0x20000000                LED3_Config
+ .data.LED2_Config
+                0x2000000c        0xc main.o
+                0x2000000c                LED2_Config
+ .data.LED1_Config
+                0x20000018        0xc main.o
+                0x20000018                LED1_Config
+ .data.uwTickFreq
+                0x20000024        0x1 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+                0x20000024                uwTickFreq
+ *fill*         0x20000025        0x3 
+ .data.uwTickPrio
+                0x20000028        0x4 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+                0x20000028                uwTickPrio
+ .data.SystemCoreClock
+                0x2000002c        0x4 Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/system_stm32f1xx.o
+                0x2000002c                SystemCoreClock
+ .data.uxCriticalNesting
+                0x20000030        0x4 FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+                0x20000034                        . = ALIGN (0x4)
+                0x20000034                        _edata = .
+
+.igot.plt       0x20000034        0x0 load address 0x08001be0
+ .igot.plt      0x20000034        0x0 main.o
+
+.bss            0x20000034     0x292c load address 0x08001be0
+                0x20000034                        . = ALIGN (0x4)
+                0x20000034                        _sbss = .
+ *(.bss)
+ *(.bss*)
+ .bss.uwTick    0x20000034        0x4 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+                0x20000034                uwTick
+ .bss.uxSchedulerSuspended
+                0x20000038        0x4 FreeRTOS-Kernel/tasks.o
+ .bss.xIdleTaskHandles
+                0x2000003c        0x4 FreeRTOS-Kernel/tasks.o
+ .bss.xNextTaskUnblockTime
+                0x20000040        0x4 FreeRTOS-Kernel/tasks.o
+ .bss.uxTaskNumber
+                0x20000044        0x4 FreeRTOS-Kernel/tasks.o
+ .bss.xNumOfOverflows
+                0x20000048        0x4 FreeRTOS-Kernel/tasks.o
+ .bss.xYieldPendings
+                0x2000004c        0x4 FreeRTOS-Kernel/tasks.o
+ .bss.xPendedTicks
+                0x20000050        0x4 FreeRTOS-Kernel/tasks.o
+ .bss.xSchedulerRunning
+                0x20000054        0x4 FreeRTOS-Kernel/tasks.o
+ .bss.uxTopReadyPriority
+                0x20000058        0x4 FreeRTOS-Kernel/tasks.o
+ .bss.xTickCount
+                0x2000005c        0x4 FreeRTOS-Kernel/tasks.o
+ .bss.uxCurrentNumberOfTasks
+                0x20000060        0x4 FreeRTOS-Kernel/tasks.o
+ .bss.xSuspendedTaskList
+                0x20000064       0x14 FreeRTOS-Kernel/tasks.o
+ .bss.uxDeletedTasksWaitingCleanUp
+                0x20000078        0x4 FreeRTOS-Kernel/tasks.o
+ .bss.xTasksWaitingTermination
+                0x2000007c       0x14 FreeRTOS-Kernel/tasks.o
+ .bss.xPendingReadyList
+                0x20000090       0x14 FreeRTOS-Kernel/tasks.o
+ .bss.pxOverflowDelayedTaskList
+                0x200000a4        0x4 FreeRTOS-Kernel/tasks.o
+ .bss.pxDelayedTaskList
+                0x200000a8        0x4 FreeRTOS-Kernel/tasks.o
+ .bss.xDelayedTaskList2
+                0x200000ac       0x14 FreeRTOS-Kernel/tasks.o
+ .bss.xDelayedTaskList1
+                0x200000c0       0x14 FreeRTOS-Kernel/tasks.o
+ .bss.pxReadyTasksLists
+                0x200000d4       0x64 FreeRTOS-Kernel/tasks.o
+ .bss.pxCurrentTCB
+                0x20000138        0x4 FreeRTOS-Kernel/tasks.o
+                0x20000138                pxCurrentTCB
+ .bss.ulMaxPRIGROUPValue
+                0x2000013c        0x4 FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+ .bss.ucMaxSysCallPriority
+                0x20000140        0x1 FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+ *fill*         0x20000141        0x3 
+ .bss.xNumberOfSuccessfulFrees
+                0x20000144        0x4 FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .bss.xNumberOfSuccessfulAllocations
+                0x20000148        0x4 FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .bss.xMinimumEverFreeBytesRemaining
+                0x2000014c        0x4 FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .bss.xFreeBytesRemaining
+                0x20000150        0x4 FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .bss.pxEnd     0x20000154        0x4 FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .bss.xStart    0x20000158        0x8 FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .bss.ucHeap    0x20000160     0x2800 FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ *(COMMON)
+                0x20002960                        . = ALIGN (0x4)
+                0x20002960                        _ebss = .
+
+._user_heap_stack
+                0x20002960      0xc00 load address 0x08001be0
+                0x20002960                        . = ALIGN (0x8)
+                [!provide]                        PROVIDE (end = .)
+                [!provide]                        PROVIDE (_end = .)
+                0x20002d60                        . = (. + _Min_Heap_Size)
+ *fill*         0x20002960      0x400 
+                0x20003560                        . = (. + _Min_Stack_Size)
+ *fill*         0x20002d60      0x800 
+                0x20003560                        . = ALIGN (0x8)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.comment)
+OUTPUT(firmware.elf elf32-littlearm)
+LOAD linker stubs
+
+.ARM.attributes
+                0x00000000       0x2b
+ .ARM.attributes
+                0x00000000       0x2d main.o
+ .ARM.attributes
+                0x0000002d       0x2d Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .ARM.attributes
+                0x0000005a       0x2d Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .ARM.attributes
+                0x00000087       0x2d Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .ARM.attributes
+                0x000000b4       0x2d Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .ARM.attributes
+                0x000000e1       0x2d Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/system_stm32f1xx.o
+ .ARM.attributes
+                0x0000010e       0x2d FreeRTOS-Kernel/tasks.o
+ .ARM.attributes
+                0x0000013b       0x2d FreeRTOS-Kernel/list.o
+ .ARM.attributes
+                0x00000168       0x2d FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+ .ARM.attributes
+                0x00000195       0x2d FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .ARM.attributes
+                0x000001c2       0x21 startup/startup_stm32f103xb.o
+ .ARM.attributes
+                0x000001e3       0x2d /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-init.o)
+ .ARM.attributes
+                0x00000210       0x2d /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memset.o)
+
+.debug_info     0x00000000     0x6add
+ .debug_info    0x00000000      0x7f7 main.o
+ .debug_info    0x000007f7      0x796 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .debug_info    0x00000f8d      0xc98 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .debug_info    0x00001c25      0x5ee Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .debug_info    0x00002213      0x9eb Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .debug_info    0x00002bfe      0x213 Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/system_stm32f1xx.o
+ .debug_info    0x00002e11     0x2b1a FreeRTOS-Kernel/tasks.o
+ .debug_info    0x0000592b      0x2ae FreeRTOS-Kernel/list.o
+ .debug_info    0x00005bd9      0x590 FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+ .debug_info    0x00006169      0x734 FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_info    0x0000689d      0x10b /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-init.o)
+ .debug_info    0x000069a8      0x135 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memset.o)
+
+.debug_abbrev   0x00000000     0x1b4f
+ .debug_abbrev  0x00000000      0x2f7 main.o
+ .debug_abbrev  0x000002f7      0x22d Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .debug_abbrev  0x00000524      0x340 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .debug_abbrev  0x00000864      0x1f5 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .debug_abbrev  0x00000a59      0x2fd Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .debug_abbrev  0x00000d56      0x144 Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/system_stm32f1xx.o
+ .debug_abbrev  0x00000e9a      0x46c FreeRTOS-Kernel/tasks.o
+ .debug_abbrev  0x00001306      0x103 FreeRTOS-Kernel/list.o
+ .debug_abbrev  0x00001409      0x2a9 FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+ .debug_abbrev  0x000016b2      0x31d FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_abbrev  0x000019cf       0xc9 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-init.o)
+ .debug_abbrev  0x00001a98       0xb7 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memset.o)
+
+.debug_loclists
+                0x00000000     0x2bbc
+ .debug_loclists
+                0x00000000       0x2b main.o
+ .debug_loclists
+                0x0000002b       0xe1 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .debug_loclists
+                0x0000010c      0x527 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .debug_loclists
+                0x00000633      0x2d6 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .debug_loclists
+                0x00000909      0x44d Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .debug_loclists
+                0x00000d56       0xac Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/system_stm32f1xx.o
+ .debug_loclists
+                0x00000e02     0x1717 FreeRTOS-Kernel/tasks.o
+ .debug_loclists
+                0x00002519       0x6e FreeRTOS-Kernel/list.o
+ .debug_loclists
+                0x00002587       0xc4 FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+ .debug_loclists
+                0x0000264b      0x38d FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_loclists
+                0x000029d8       0x65 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-init.o)
+ .debug_loclists
+                0x00002a3d      0x17f /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memset.o)
+
+.debug_aranges  0x00000000      0x598
+ .debug_aranges
+                0x00000000       0x40 main.o
+ .debug_aranges
+                0x00000040       0xe0 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .debug_aranges
+                0x00000120       0x90 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .debug_aranges
+                0x000001b0       0x58 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .debug_aranges
+                0x00000208       0x88 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .debug_aranges
+                0x00000290       0x28 Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/system_stm32f1xx.o
+ .debug_aranges
+                0x000002b8      0x188 FreeRTOS-Kernel/tasks.o
+ .debug_aranges
+                0x00000440       0x40 FreeRTOS-Kernel/list.o
+ .debug_aranges
+                0x00000480       0x78 FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+ .debug_aranges
+                0x000004f8       0x60 FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_aranges
+                0x00000558       0x20 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-init.o)
+ .debug_aranges
+                0x00000578       0x20 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memset.o)
+
+.debug_rnglists
+                0x00000000      0x50a
+ .debug_rnglists
+                0x00000000       0x2c main.o
+ .debug_rnglists
+                0x0000002c       0xa3 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .debug_rnglists
+                0x000000cf       0x7f Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .debug_rnglists
+                0x0000014e       0x4d Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .debug_rnglists
+                0x0000019b       0x76 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .debug_rnglists
+                0x00000211       0x19 Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/system_stm32f1xx.o
+ .debug_rnglists
+                0x0000022a      0x1f1 FreeRTOS-Kernel/tasks.o
+ .debug_rnglists
+                0x0000041b       0x2b FreeRTOS-Kernel/list.o
+ .debug_rnglists
+                0x00000446       0x71 FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+ .debug_rnglists
+                0x000004b7       0x53 FreeRTOS-Kernel/portable/MemMang/heap_4.o
+
+.debug_line     0x00000000     0x583a
+ .debug_line    0x00000000      0x364 main.o
+ .debug_line    0x00000364      0x48e Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .debug_line    0x000007f2      0x5a3 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .debug_line    0x00000d95      0x4ea Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .debug_line    0x0000127f      0xbfe Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .debug_line    0x00001e7d      0x1a1 Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/system_stm32f1xx.o
+ .debug_line    0x0000201e     0x24d7 FreeRTOS-Kernel/tasks.o
+ .debug_line    0x000044f5      0x2a8 FreeRTOS-Kernel/list.o
+ .debug_line    0x0000479d      0x5c6 FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+ .debug_line    0x00004d63      0x816 FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_line    0x00005579      0x11e /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-init.o)
+ .debug_line    0x00005697      0x1a3 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memset.o)
+
+.debug_str      0x00000000     0x25f7
+ .debug_str     0x00000000     0x25f7 main.o
+                                0x4fa (size before relaxing)
+ .debug_str     0x000025f7        0x0 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+                                0x7e9 (size before relaxing)
+ .debug_str     0x000025f7        0x0 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+                                0x87a (size before relaxing)
+ .debug_str     0x000025f7        0x0 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+                                0x3b0 (size before relaxing)
+ .debug_str     0x000025f7        0x0 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+                                0x5d1 (size before relaxing)
+ .debug_str     0x000025f7        0x0 Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/system_stm32f1xx.o
+                                0x22f (size before relaxing)
+ .debug_str     0x000025f7        0x0 FreeRTOS-Kernel/tasks.o
+                                0xf52 (size before relaxing)
+ .debug_str     0x000025f7        0x0 FreeRTOS-Kernel/list.o
+                                0x298 (size before relaxing)
+ .debug_str     0x000025f7        0x0 FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+                                0x428 (size before relaxing)
+ .debug_str     0x000025f7        0x0 FreeRTOS-Kernel/portable/MemMang/heap_4.o
+                                0x511 (size before relaxing)
+ .debug_str     0x000025f7        0x0 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-init.o)
+                                0x1ed (size before relaxing)
+ .debug_str     0x000025f7        0x0 /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memset.o)
+                                0x1a0 (size before relaxing)
+
+.debug_frame    0x00000000      0xd44
+ .debug_frame   0x00000000       0x84 main.o
+ .debug_frame   0x00000084      0x1cc Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .debug_frame   0x00000250      0x118 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .debug_frame   0x00000368       0xe8 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .debug_frame   0x00000450      0x170 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .debug_frame   0x000005c0       0x30 Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/system_stm32f1xx.o
+ .debug_frame   0x000005f0      0x4bc FreeRTOS-Kernel/tasks.o
+ .debug_frame   0x00000aac       0x70 FreeRTOS-Kernel/list.o
+ .debug_frame   0x00000b1c       0xf4 FreeRTOS-Kernel/portable/GCC/ARM_CM3/port.o
+ .debug_frame   0x00000c10       0xdc FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_frame   0x00000cec       0x2c /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-init.o)
+ .debug_frame   0x00000d18       0x2c /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a(libc_a-memset.o)
